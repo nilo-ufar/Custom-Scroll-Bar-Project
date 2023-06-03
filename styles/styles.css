@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#scroll {
+  height: 10px;
+  background-color: #606C38;
+  position: fixed;
+  /* width: 50%; */
+}
+
+.olivine {
+  width: 100%;
+  background-color: #ADC178;
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+.tea-green {
+  width: 100%;
+  background-color: #DDE5B6;
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
